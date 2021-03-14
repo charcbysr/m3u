@@ -48,7 +48,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 
 #EXTINF:-1 group-title="News",Weather Nation
-https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="News",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
@@ -58,7 +58,11 @@ https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
 
 #EXTINF:-1 group-title="Lists",freearhey
 https://raw.githubusercontent.com/freearhey/iptv/master/channels/us.m3u
+#EXTINF:-1 group-title="Lists",iptv-org
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/us.m3u
 #EXTINF:-1 group-title="Lists",fotvnetwork
-https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/Cable.m3u8
+https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/SuperTV.m3u
 #EXTINF:-1 group-title="Lists",killirushi
-https://raw.githubusercontent.com/kilirushi/m3u/master/us.m3u
+https://raw.githubusercontent.com/kilirushi/iptv/master/us.m3u
+#EXTINF:-1 group-title="Lists",IPTV503
+https://raw.githubusercontent.com/IPTV503/503.m3u/main/503.m3u
