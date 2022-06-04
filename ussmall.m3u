@@ -57,6 +57,9 @@ https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1 group-title="Pop",Discovery Channel
+http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN
 https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
 
 #EXTINF:-1 group-title="Lists",freearhey
