@@ -62,10 +62,37 @@ https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
 #EXTINF:-1 group-title="Sports",ESPN
 http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 
+#EXTINF:-1 group-title="Sports",ABC Portland
+http://51.161.118.146:8080/ISG03_ABC_PORTLAND_OR_KATU/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC San Fran 
+http://51.161.118.146:8080/ISG03_ABC_SAN_FRANCISCO_CA_KGO/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC San Diego
+http://51.161.118.146:8080/ISG03_ABC_SAN_DIEGO_CA_KGTV/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC Denver
+http://51.161.118.146:8080/ISG03_ABC_DENVER_CO_KMGH/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC Phoenix
+http://51.161.118.146:8080/ISG03_ABC_PHOENIX_AZ_KNXV/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC Seattle
+http://51.161.118.146:8080/ISG03_ABC_SEATTLE_WA_KOMO/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC Houston
+http://51.161.118.146:8080/ISG03_ABC_HOUSTON_TX_KTRK/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC Sacramento
+http://51.161.118.146:8080/ISG03_ABC_SACRAMENTO_CA_KXTV/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC Boston
+http://51.161.118.146:8080/ISG03_ABC_BOSTON_MA_WCVB/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC Cleveland
+http://51.161.118.146:8080/ISG03_ABC_CLEVELAND_OH_WEWS/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC Dallas
+http://51.161.118.146:8080/ISG03_ABC_DALLAS_TX_WFAA/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC Orlando
+http://51.161.118.146:8080/ISG03_ABC_ORLANDO_FL_WFTV/video.m3u8
+#EXTINF:-1 group-title="Sports",ABC Milwaukee
+http://51.161.118.146:8080/ISG03_ABC_MILWAUKEE_WI_WISN/video.m3u8
+
 #EXTINF:-1 group-title="Lists",freearhey
 https://raw.githubusercontent.com/freearhey/iptv/master/channels/us.m3u
 #EXTINF:-1 group-title="Lists",iptv-org
-https://raw.githubusercontent.com/iptv-org/iptv/master/channels/us.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
 #EXTINF:-1 group-title="Lists",fotvnetwork
 https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/SuperTV.m3u
 #EXTINF:-1 group-title="Lists",killirushi
